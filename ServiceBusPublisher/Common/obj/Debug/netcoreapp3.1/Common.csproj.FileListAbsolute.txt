@@ -1,0 +1,10 @@
+C:\Users\jwhit\source\repos\ServiceBusPublisher\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\Users\jwhit\source\repos\ServiceBusPublisher\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\jwhit\source\repos\ServiceBusPublisher\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\jwhit\source\repos\ServiceBusPublisher\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+C:\Users\jwhit\source\repos\ServiceBusPublisher\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jwhit\source\repos\ServiceBusPublisher\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\jwhit\source\repos\ServiceBusPublisher\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\jwhit\source\repos\ServiceBusPublisher\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\jwhit\source\repos\ServiceBusPublisher\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\Users\jwhit\source\repos\ServiceBusPublisher\Common\obj\Debug\netcoreapp3.1\Common.pdb
